@@ -1,5 +1,5 @@
 ===========================================================
-#README for run_analysis.r
+##README for run_analysis.r
 ===========================================================
 ##Getting and Cleaning Data Assignment 
 ###Robert Ben Parkinson
